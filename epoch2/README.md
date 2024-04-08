@@ -13,7 +13,7 @@ base_model: t5-large
 
 ### Model Description
 
-<!-- Provide a longer summary of what this model is. -->
+<!-T5 model that was trained on Amazon review dataset for 3 epochs and 50000 datapoints.  Provide a longer summary of what this model is. -->
 
 
 
